@@ -3,22 +3,22 @@ const data = [
   {
    quote: `“Be like a mountain.”`, 
    emoji: '🗻', 
-   image: `url(assets/mountain.jpg)`
+   image: `url(assets/HeartFlowerThingy.jpeg)`
   }, 
   {
    quote: `“Brave the oceans.”`, 
    emoji: '🌊', 
-   image: `url(assets/ocean.jpg)`
+   image: `url(assets/Sage.jpg)`
   },  
   {
    quote: `“Grow like a tree.”`, 
    emoji: '🌲' , 
-   image: `url(assets/tree.jpg)`
+   image: `url(assets/Ribes_sanquineum.jpeg)`
   },
   {
     quote: `“We'll be ok now.”`, 
     emoji: '👌', 
-    image: `url(assets/forest.jpg)`
+    image: `url(assets/gaillardia.jpeg)`
   }
 ];
 
