@@ -14,5 +14,6 @@ explore and showcase native flowers to spokane washington
 
 ## Citations
 - [Favicons](https://favicon.io/)
+- [clash Display](https://www.fontshare.com/fonts/clash-display)
 - CodePen
 - Netlify

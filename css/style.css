@@ -1,7 +1,7 @@
 /* Stylesheet */
 
 /* Import Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
 
 body {  
   /* Horizontal and Vertical Center */
@@ -15,11 +15,12 @@ body {
   
   /* Load Background Images with JS. Style with CSS */ 
   background-size: cover;
+  
 }
 
 /* Apply Font */
 main {
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'ClashDisplay-Regular';
   font-size: 5vmin;
   text-align: center;
   
