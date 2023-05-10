@@ -1,23 +1,23 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“Be like a mountain.”`, 
-   emoji: '🗻', 
+   quote: `“April Showers”`, 
+   emoji: '🍀', 
    image: `url(assets/HeartFlowerThingy.jpeg)`
   }, 
   {
-   quote: `“Brave the oceans.”`, 
-   emoji: '🌊', 
+   quote: `“Bring may flowers”`, 
+   emoji: '🌼', 
    image: `url(assets/Sage.jpg)`
   },  
   {
-   quote: `“Grow like a tree.”`, 
-   emoji: '🌲' , 
+   quote: `“May flowers bloom in full array”`, 
+   emoji: '🌸' , 
    image: `url(assets/Ribes_sanquineum.jpeg)`
   },
   {
-    quote: `“We'll be ok now.”`, 
-    emoji: '👌', 
+    quote: `“Bringing colors to brighten our day”`, 
+    emoji: '🌞', 
     image: `url(assets/gaillardia.jpeg)`
   }
 ];
@@ -33,11 +33,11 @@ const emoji = document.querySelector('p');
 const bgImage = document.querySelector('body');
 
 // Check-Check: change text
-quote.innerHTML = "Colin is quotable.";
+quote.innerHTML = "April Showers";
 // Check-Check: change emoji text
 emoji.innerHTML = "👍️";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/mountain.jpg)';
+bgImage.style.backgroundImage= 'url(assets/HeartFlowerThingy.jpeg)';
 
 /*
  * Navigate to Items with Event Listeners
