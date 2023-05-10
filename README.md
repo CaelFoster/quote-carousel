@@ -13,4 +13,6 @@ explore and showcase native flowers to spokane washington
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
-- Your citations and sources go here
+- [Favicons](https://favicon.io/)
+- CodePen
+- Netlify
