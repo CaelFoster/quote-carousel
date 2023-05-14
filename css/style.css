@@ -3,13 +3,15 @@
 /* Import Google Font */
 
 
+
+
+
 body {  
   /* Horizontal and Vertical Center */
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  
   /* Extend full height of browser  */
   height: 100vh;
   
@@ -17,6 +19,7 @@ body {
   background-size: cover;
   
 }
+
 
 /* Apply Font */
 main {
